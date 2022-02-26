@@ -1,2 +1,2 @@
 # Discord Timestamp Generator
-https://chayapholroibang.github.io/discord-timestamp/
+https://bchaing.github.io/discord-timestamp/
